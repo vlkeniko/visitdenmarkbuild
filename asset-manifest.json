@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55ba4c31.css",
+    "main.js": "/static/js/main.06473180.js",
+    "static/js/684.ebb9eafb.chunk.js": "/static/js/684.ebb9eafb.chunk.js",
+    "static/js/787.bd63d07b.chunk.js": "/static/js/787.bd63d07b.chunk.js",
+    "static/media/culture.png": "/static/media/culture.2a607a172fc870a097c4.png",
+    "static/media/family.png": "/static/media/family.e6847d0890c575eb1c1f.png",
+    "static/media/julius-yls-NXVMRWGgCfg-unsplash.jpg": "/static/media/julius-yls-NXVMRWGgCfg-unsplash.2cf60de5e24f9a0baa30.jpg",
+    "static/media/nightlife.png": "/static/media/nightlife.206b05f72af08076e82e.png",
+    "static/media/nature.png": "/static/media/nature.0e86a0c6b86b8192db4d.png",
+    "static/media/family-g789bb5581_1920.jpg": "/static/media/family-g789bb5581_1920.46d009af1a8cf16f6e59.jpg",
+    "static/media/jeppe-monster-CEJxlDGskZo-unsplash.jpg": "/static/media/jeppe-monster-CEJxlDGskZo-unsplash.ba0f8d70c3f3f03ea02e.jpg",
+    "static/media/sergio-alves-santos-PeDrafNlY2Y-unsplash.jpg": "/static/media/sergio-alves-santos-PeDrafNlY2Y-unsplash.13633b65000ed58766cc.jpg",
+    "static/media/VisitDenmark-SemiBold.otf": "/static/media/VisitDenmark-SemiBold.afb900071dcef2ec872d.otf",
+    "static/media/VisitDenmark-Outline-Medium.otf": "/static/media/VisitDenmark-Outline-Medium.1294fafdecf84b7bffb6.otf",
+    "static/media/VisitDenmark-ExtraBold.otf": "/static/media/VisitDenmark-ExtraBold.264391f08fc48435b7ad.otf",
+    "static/media/VisitDenmark-Bold.otf": "/static/media/VisitDenmark-Bold.2b38862d9b66bd8e836a.otf",
+    "static/media/VisitDenmark-Medium.otf": "/static/media/VisitDenmark-Medium.ad6310d8f6f3655a683e.otf",
+    "static/media/VisitDenmark-Regular.otf": "/static/media/VisitDenmark-Regular.b2693e190b3c3b48df16.otf",
+    "static/media/VisitDenmark-Outline-Regular.otf": "/static/media/VisitDenmark-Outline-Regular.06fd9d2738bfcae8d05d.otf",
+    "service-worker.js": "/service-worker.js",
+    "static/media/play-image.png": "/static/media/play-image.79d0852d7a8bf846380c.png",
+    "static/media/seemore.png": "/static/media/seemore.72ccce0d60c553947e38.png",
+    "static/media/heart-logo.svg": "/static/media/heart-logo.1a005f52b5a8d266fe2d33e4e39f2d17.svg",
+    "static/media/play.svg": "/static/media/play.88f0e292ac532b784f863dcb6956c7f3.svg",
+    "static/media/discount.svg": "/static/media/discount.a93cf7249074c0a2f6448869826b376f.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.c11ac69ebef0a9d5ca595e0b4745078e.svg",
+    "main.55ba4c31.css.map": "/static/css/main.55ba4c31.css.map",
+    "main.06473180.js.map": "/static/js/main.06473180.js.map",
+    "684.ebb9eafb.chunk.js.map": "/static/js/684.ebb9eafb.chunk.js.map",
+    "787.bd63d07b.chunk.js.map": "/static/js/787.bd63d07b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ba4c31.css",
+    "static/js/main.06473180.js"
+  ]
+}
